@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Generator: Apple Native CoreSVG 232.5-->
-<!DOCTYPE svg
-PUBLIC "-//W3C//DTD SVG 1.1//EN"
-       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3300" height="2200">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3300 2200" enable-background="new 0 0 3300 2200" xml:space="preserve">
  <!--glyph: "", point size: 100.0, font version: "19.0d8e1", template writer version: "128"-->
- <style>.monochrome-0 {-sfsymbols-motion-group:0}
+ <!-- <style>.monochrome-0 {-sfsymbols-motion-group:0}
 
 .multicolor-0:tintColor {-sfsymbols-motion-group:0}
 
 .hierarchical-0:primary {-sfsymbols-motion-group:0}
 
 .SFSymbolsPreviewWireframe {fill:none;opacity:1.0;stroke:black;stroke-width:0.5}
-</style>
+</style> -->
  <g id="Notes">
   <rect height="2200" id="artboard" style="fill:white;opacity:1" width="3300" x="0" y="0"/>
   <line style="fill:none;stroke:black;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="292" y2="292"/>
